@@ -1,0 +1,3 @@
+/home/saanidhya/Desktop/TensorFlow-2.x-YOLOv3/custom_dataset/test/irface_sub001_seq07_frm01160.jpg_lfb.png 422,290,704,711,0
+/home/saanidhya/Desktop/TensorFlow-2.x-YOLOv3/custom_dataset/test/irface_sub001_seq07_frm01098.jpg_lfb.png 422,279,690,722,0
+/home/saanidhya/Desktop/TensorFlow-2.x-YOLOv3/custom_dataset/test/irface_sub001_seq07_frm01266.jpg_lfb.png 419,298,703,682,0
